@@ -1,0 +1,9 @@
+Label,Finetuned_F1
+Cytoplasm,0.508500772797527
+Nucleus,0.6621869273060477
+Cell membrane,0.386411889596603
+Mitochondrion,0.4059259259259259
+Endoplasmic reticulum,0.19591836734693877
+Lysosome/Vacuole,0.0
+Golgi apparatus,0.22826086956521738
+Peroxisome,0.11428571428571428

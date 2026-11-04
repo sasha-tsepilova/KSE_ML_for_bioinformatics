@@ -1,0 +1,16 @@
+protein_id,true_labels,predicted_labels,highest_probability
+ENSP00000355743,Nucleus,Nucleus,0.9358
+ENSP00000429628,Nucleus,Nucleus,0.9263
+ENSP00000266544,Mitochondrion,Mitochondrion,0.9936
+ENSP00000470652,Golgi apparatus,"Endoplasmic reticulum, Golgi apparatus",0.9838
+ENSP00000460751,Nucleus,"Nucleus, Mitochondrion",0.8786
+ENSP00000485945,Nucleus,"Mitochondrion, Endoplasmic reticulum",0.8116
+ENSP00000472858,Nucleus,Mitochondrion,0.9635
+ENSP00000398124,Nucleus,"Cytoplasm, Nucleus",0.9061
+ENSP00000430889,"Nucleus, Cell membrane",none,0.6046
+ENSP00000428877,"Nucleus, Cell membrane",Nucleus,0.9406
+ENSP00000394609,Cytoplasm,Cytoplasm,0.875
+ENSP00000317992,Nucleus,Nucleus,0.8504
+ENSP00000384925,Cytoplasm,Cytoplasm,0.8018
+ENSP00000460661,Golgi apparatus,Cytoplasm,0.7474
+ENSP00000416644,Cytoplasm,Cytoplasm,0.9089

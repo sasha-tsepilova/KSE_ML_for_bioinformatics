@@ -1,0 +1,4 @@
+{
+  "best_val_threshold": 0.65,
+  "hpa_test_macro_f1": 0.31268630835299677
+}
